@@ -6,7 +6,8 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "engines": {
     "node": "10.x",
-    "npm": ">= 6.0.0"
+    "npm": ">= 6.0.0",
+    "yarn": "1.x"
   },
   "dependencies": {
     "gatsby": "^2.17.11",
